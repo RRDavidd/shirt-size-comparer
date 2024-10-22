@@ -1,0 +1,154 @@
+{
+    "shirt_sizes": [
+      {
+        "size": "XS",
+        "measurements": {
+          "neck": {
+            "US": "13-13.5 inches",
+            "EU": "33-34 cm",
+            "UK": "13-13.5 inches"
+          },
+          "chest": {
+            "US": "32-34 inches",
+            "EU": "81-86 cm",
+            "UK": "32-34 inches"
+          },
+          "waist": {
+            "US": "26-28 inches",
+            "EU": "66-71 cm",
+            "UK": "26-28 inches"
+          },
+          "shirt_length": {
+            "US": "27-28 inches",
+            "EU": "68-71 cm",
+            "UK": "27-28 inches"
+          }
+        }
+      },
+      {
+        "size": "S",
+        "measurements": {
+          "neck": {
+            "US": "14-14.5 inches",
+            "EU": "35-37 cm",
+            "UK": "14-14.5 inches"
+          },
+          "chest": {
+            "US": "35-37 inches",
+            "EU": "89-94 cm",
+            "UK": "35-37 inches"
+          },
+          "waist": {
+            "US": "29-31 inches",
+            "EU": "74-79 cm",
+            "UK": "29-31 inches"
+          },
+          "shirt_length": {
+            "US": "28-29 inches",
+            "EU": "71-74 cm",
+            "UK": "28-29 inches"
+          }
+        }
+      },
+      {
+        "size": "M",
+        "measurements": {
+          "neck": {
+            "US": "15-15.5 inches",
+            "EU": "38-39 cm",
+            "UK": "15-15.5 inches"
+          },
+          "chest": {
+            "US": "38-40 inches",
+            "EU": "96-101 cm",
+            "UK": "38-40 inches"
+          },
+          "waist": {
+            "US": "32-34 inches",
+            "EU": "81-86 cm",
+            "UK": "32-34 inches"
+          },
+          "shirt_length": {
+            "US": "29-30 inches",
+            "EU": "74-76 cm",
+            "UK": "29-30 inches"
+          }
+        }
+      },
+      {
+        "size": "L",
+        "measurements": {
+          "neck": {
+            "US": "16-16.5 inches",
+            "EU": "40-42 cm",
+            "UK": "16-16.5 inches"
+          },
+          "chest": {
+            "US": "41-43 inches",
+            "EU": "104-109 cm",
+            "UK": "41-43 inches"
+          },
+          "waist": {
+            "US": "35-37 inches",
+            "EU": "89-94 cm",
+            "UK": "35-37 inches"
+          },
+          "shirt_length": {
+            "US": "30-31 inches",
+            "EU": "76-79 cm",
+            "UK": "30-31 inches"
+          }
+        }
+      },
+      {
+        "size": "XL",
+        "measurements": {
+          "neck": {
+            "US": "17-17.5 inches",
+            "EU": "43-44 cm",
+            "UK": "17-17.5 inches"
+          },
+          "chest": {
+            "US": "44-46 inches",
+            "EU": "111-116 cm",
+            "UK": "44-46 inches"
+          },
+          "waist": {
+            "US": "38-40 inches",
+            "EU": "96-101 cm",
+            "UK": "38-40 inches"
+          },
+          "shirt_length": {
+            "US": "31-32 inches",
+            "EU": "79-81 cm",
+            "UK": "31-32 inches"
+          }
+        }
+      },
+      {
+        "size": "XXL",
+        "measurements": {
+          "neck": {
+            "US": "18-18.5 inches",
+            "EU": "45-47 cm",
+            "UK": "18-18.5 inches"
+          },
+          "chest": {
+            "US": "47-49 inches",
+            "EU": "119-124 cm",
+            "UK": "47-49 inches"
+          },
+          "waist": {
+            "US": "41-43 inches",
+            "EU": "104-109 cm",
+            "UK": "41-43 inches"
+          },
+          "shirt_length": {
+            "US": "32-33 inches",
+            "EU": "81-84 cm",
+            "UK": "32-33 inches"
+          }
+        }
+      }
+    ]
+  }
