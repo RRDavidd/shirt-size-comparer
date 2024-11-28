@@ -23,6 +23,7 @@ export default function InputFields(){
                 type="number"
                 id="userHeight"
                 value={userSizes.height}
+                min="0"
                 onChange={(e) => dispatch(setUserHeight(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
@@ -32,6 +33,7 @@ export default function InputFields(){
                 type="number"
                 id="userNeck"
                 value={userSizes.neck}
+                min="0"
                 onChange={(e) => dispatch(setUserNeck(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
@@ -40,6 +42,7 @@ export default function InputFields(){
                 type="number"
                 id="userChest"
                 value={userSizes.chest}
+                min="0"
                 onChange={(e) => dispatch(setUserChest(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
@@ -48,6 +51,7 @@ export default function InputFields(){
                 type="number"
                 id="userWaist"
                 value={userSizes.waist}
+                min="0"
                 onChange={(e) => dispatch(setUserWaist(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
@@ -57,6 +61,7 @@ export default function InputFields(){
                 type="number"
                 id="shirtNeck"
                 value={shirtSizes.neck}
+                min="0"
                 onChange={(e) => dispatch(setShirtNeck(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
@@ -65,6 +70,7 @@ export default function InputFields(){
                 type="number"
                 id="shirtChest"
                 value={shirtSizes.chest}
+                min="0"
                 onChange={(e) => dispatch(setShirtChest(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
@@ -73,6 +79,7 @@ export default function InputFields(){
                 type="number"
                 id="shirtWaist"
                 value={shirtSizes.waist}
+                min="0"
                 onChange={(e) => dispatch(setShirtWaist(Number(e.target.value)))}
                 className="p-2 mt-1 w-full rounded-md border-solid border-2 border-gray-200 shadow-sm sm:text-sm"
             />
