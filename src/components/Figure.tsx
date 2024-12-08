@@ -9,6 +9,10 @@ const Figure: React.FC = () => {
   return (
     <div>
       <h1>Figure Component</h1>
+      <svg width="200" height="400" viewBox="0 0 200 400">
+        {/* this is the head */}
+        {/* Learn svg and possibly calculate how much of the height is divided */}
+      </svg>
       <p>User Sizes:</p>
       <ul>
         <li>Height: {userSizes.height}</li>
